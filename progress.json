@@ -341,7 +341,9 @@
    "retried": true
   }
  },
- "pending": [],
- "section": "01",
+ "pending": [
+  "02-predictive-approach#2"
+ ],
+ "section": "02",
  "skipped": []
 }
