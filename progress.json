@@ -1,0 +1,347 @@
+{
+ "done": {
+  "01-agile-and-hybrid-approaches#1": {
+   "ok": true,
+   "chosen": "B"
+  },
+  "01-agile-and-hybrid-approaches#2": {
+   "ok": true,
+   "chosen": "D"
+  },
+  "01-agile-and-hybrid-approaches#3": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#4": {
+   "ok": true,
+   "chosen": "D"
+  },
+  "01-agile-and-hybrid-approaches#5": {
+   "ok": true,
+   "chosen": "B"
+  },
+  "01-agile-and-hybrid-approaches#6": {
+   "ok": false,
+   "chosen": "D"
+  },
+  "01-agile-and-hybrid-approaches#7": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#8": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#9": {
+   "ok": true,
+   "chosen": "D"
+  },
+  "01-agile-and-hybrid-approaches#10": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#11": {
+   "ok": true,
+   "chosen": "B"
+  },
+  "01-agile-and-hybrid-approaches#12": {
+   "ok": true,
+   "chosen": "BD"
+  },
+  "01-agile-and-hybrid-approaches#13": {
+   "ok": true,
+   "chosen": "B"
+  },
+  "01-agile-and-hybrid-approaches#14": {
+   "ok": true,
+   "chosen": "D"
+  },
+  "01-agile-and-hybrid-approaches#15": {
+   "ok": true,
+   "chosen": "A"
+  },
+  "01-agile-and-hybrid-approaches#16": {
+   "ok": false,
+   "chosen": "AB"
+  },
+  "01-agile-and-hybrid-approaches#17": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#18": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#19": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#20": {
+   "ok": true,
+   "chosen": "BC"
+  },
+  "01-agile-and-hybrid-approaches#21": {
+   "ok": true,
+   "chosen": "D"
+  },
+  "01-agile-and-hybrid-approaches#22": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#24": {
+   "ok": true,
+   "chosen": "B"
+  },
+  "01-agile-and-hybrid-approaches#25": {
+   "ok": false,
+   "chosen": "B"
+  },
+  "01-agile-and-hybrid-approaches#26": {
+   "ok": true,
+   "chosen": "D"
+  },
+  "01-agile-and-hybrid-approaches#27": {
+   "ok": true,
+   "chosen": "B"
+  },
+  "01-agile-and-hybrid-approaches#28": {
+   "ok": true,
+   "chosen": "B"
+  },
+  "01-agile-and-hybrid-approaches#29": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#30": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#31": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#32": {
+   "ok": true,
+   "chosen": "A"
+  },
+  "01-agile-and-hybrid-approaches#33": {
+   "ok": true,
+   "chosen": "A"
+  },
+  "01-agile-and-hybrid-approaches#34": {
+   "ok": true,
+   "chosen": "BC"
+  },
+  "01-agile-and-hybrid-approaches#35": {
+   "ok": true,
+   "chosen": "D"
+  },
+  "01-agile-and-hybrid-approaches#36": {
+   "ok": true,
+   "chosen": "D"
+  },
+  "01-agile-and-hybrid-approaches#37": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#38": {
+   "ok": true,
+   "chosen": "B"
+  },
+  "01-agile-and-hybrid-approaches#39": {
+   "ok": true,
+   "chosen": "D"
+  },
+  "01-agile-and-hybrid-approaches#40": {
+   "ok": false,
+   "chosen": "A"
+  },
+  "01-agile-and-hybrid-approaches#41": {
+   "ok": false,
+   "chosen": "A"
+  },
+  "01-agile-and-hybrid-approaches#42": {
+   "ok": true,
+   "chosen": "A"
+  },
+  "01-agile-and-hybrid-approaches#43": {
+   "ok": true,
+   "chosen": "D"
+  },
+  "01-agile-and-hybrid-approaches#44": {
+   "ok": true,
+   "chosen": "BCD"
+  },
+  "01-agile-and-hybrid-approaches#45": {
+   "ok": true,
+   "chosen": "B"
+  },
+  "01-agile-and-hybrid-approaches#46": {
+   "ok": true,
+   "chosen": "A"
+  },
+  "01-agile-and-hybrid-approaches#47": {
+   "ok": false,
+   "chosen": "B"
+  },
+  "01-agile-and-hybrid-approaches#48": {
+   "ok": false,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#49": {
+   "ok": true,
+   "chosen": "ABD"
+  },
+  "01-agile-and-hybrid-approaches#50": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#51": {
+   "ok": true,
+   "chosen": "D"
+  },
+  "01-agile-and-hybrid-approaches#52": {
+   "ok": true,
+   "chosen": "B"
+  },
+  "01-agile-and-hybrid-approaches#53": {
+   "ok": true,
+   "chosen": "A"
+  },
+  "01-agile-and-hybrid-approaches#55": {
+   "ok": true,
+   "chosen": "A"
+  },
+  "01-agile-and-hybrid-approaches#56": {
+   "ok": false,
+   "chosen": "D"
+  },
+  "01-agile-and-hybrid-approaches#57": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#58": {
+   "ok": true,
+   "chosen": "B"
+  },
+  "01-agile-and-hybrid-approaches#59": {
+   "ok": true,
+   "chosen": "B"
+  },
+  "01-agile-and-hybrid-approaches#60": {
+   "ok": false,
+   "chosen": "A"
+  },
+  "01-agile-and-hybrid-approaches#61": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#62": {
+   "ok": true,
+   "chosen": "C",
+   "retried": true
+  },
+  "01-agile-and-hybrid-approaches#65": {
+   "ok": true,
+   "chosen": "AC"
+  },
+  "01-agile-and-hybrid-approaches#66": {
+   "ok": true,
+   "chosen": "B"
+  },
+  "01-agile-and-hybrid-approaches#69": {
+   "ok": false,
+   "chosen": "D"
+  },
+  "01-agile-and-hybrid-approaches#70": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#71": {
+   "ok": true,
+   "chosen": "A"
+  },
+  "01-agile-and-hybrid-approaches#72": {
+   "ok": true,
+   "chosen": "B"
+  },
+  "01-agile-and-hybrid-approaches#73": {
+   "ok": true,
+   "chosen": "D"
+  },
+  "01-agile-and-hybrid-approaches#74": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#75": {
+   "ok": true,
+   "chosen": "B",
+   "retried": true
+  },
+  "01-agile-and-hybrid-approaches#76": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#77": {
+   "ok": true,
+   "chosen": "A",
+   "retried": true
+  },
+  "01-agile-and-hybrid-approaches#78": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#79": {
+   "ok": true,
+   "chosen": "A"
+  },
+  "01-agile-and-hybrid-approaches#80": {
+   "ok": true,
+   "chosen": "C"
+  },
+  "01-agile-and-hybrid-approaches#81": {
+   "ok": true,
+   "chosen": "D"
+  },
+  "01-agile-and-hybrid-approaches#82": {
+   "ok": false,
+   "chosen": "A"
+  },
+  "01-agile-and-hybrid-approaches#83": {
+   "ok": false,
+   "chosen": "CD"
+  },
+  "01-agile-and-hybrid-approaches#84": {
+   "ok": true,
+   "chosen": "A"
+  },
+  "01-agile-and-hybrid-approaches#85": {
+   "ok": true,
+   "chosen": "B"
+  },
+  "01-agile-and-hybrid-approaches#86": {
+   "ok": true,
+   "chosen": "D"
+  },
+  "01-agile-and-hybrid-approaches#87": {
+   "ok": false,
+   "chosen": "A"
+  },
+  "01-agile-and-hybrid-approaches#88": {
+   "ok": true,
+   "chosen": "A"
+  },
+  "01-agile-and-hybrid-approaches#89": {
+   "ok": true,
+   "chosen": "B"
+  },
+  "01-agile-and-hybrid-approaches#90": {
+   "ok": true,
+   "chosen": "C",
+   "retried": true
+  }
+ },
+ "pending": [],
+ "section": "01",
+ "skipped": []
+}
